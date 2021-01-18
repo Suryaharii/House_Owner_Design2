@@ -67,12 +67,12 @@ a:focus {
 }
 
 #content ul li a:hover {
-    color: #ffa31a;
+    color: #33cc33;
 }
 
 .components i 
 {
-    color : #ffa31a;
+    color : #33cc33;
 }
 
 
@@ -99,7 +99,7 @@ a:focus {
 #content .form-heading
 {
     padding : 5px;
-    background : #ffa31a;
+    background : #33cc33;
     color: white;
 }
 #content .formBody
@@ -112,7 +112,7 @@ a:focus {
 #content .formcontent1 h6{
     margin-top:-10px;
     margin-left: 50px;
-    background:#ffa31a;
+    background:#33cc33;
     color : white;
     width:130px;
     font-size : 1em;
@@ -127,7 +127,7 @@ a:focus {
 #content .formcontent2 h6{
     margin-top:-10px;
     margin-left: 50px;
-    background:#ffa31a;
+    background:#33cc33;
     color : white;
     width:115px;
     font-size : 1em;
@@ -143,7 +143,7 @@ a:focus {
 #content .formcontent3 h6{
     margin-top:-10px;
     margin-left: 50px;
-    background:#ffa31a;
+    background:#33cc33;
     color : white;
     width:80px;
     font-size : 1em;
@@ -159,7 +159,7 @@ a:focus {
 #content .formcontent4 h6{
     margin-top:-10px;
     margin-left: 50px;
-    background:#ffa31a;
+    background:#33cc33;
     color : white;
     width:112px;
     font-size : 1em;
@@ -176,7 +176,7 @@ a:focus {
 #content .formcontent5 h6{
     margin-top:-10px;
     margin-left: 50px;
-    background:#ffa31a;
+    background:#33cc33;
     color : white;
     width:110px;
     font-size : 1em;
@@ -192,7 +192,7 @@ a:focus {
 #content .formcontent6 h6{
     margin-top:-10px;
     margin-left: 50px;
-    background:#ffa31a;
+    background:#33cc33;
     color : white;
     width:145px;
     font-size : 1em;
@@ -208,7 +208,7 @@ a:focus {
 #content .formcontent7 h6{
     margin-top:-10px;
     margin-left: 50px;
-    background:#ffa31a;
+    background:#33cc33;
     color : white;
     width:170px;
     font-size : 1em;
@@ -235,7 +235,7 @@ input[type="text"],input[type="date"],input[type="file"],input[type="number"],in
 }
 .space_desc_plus i{
     color:white;
-    background:#ffa31a;
+    background:#33cc33;
     font-size:20px;
     margin-top:30px;
     padding : 5px;
